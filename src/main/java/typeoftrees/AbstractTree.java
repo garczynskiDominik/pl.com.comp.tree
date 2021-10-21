@@ -13,8 +13,7 @@ public abstract class AbstractTree {
     private String branches;
     private TypesOfLeaves typeOfLeaves;
 
-    public void grow(){
-    }
+    public abstract void grow();
 
 
 
