@@ -10,10 +10,6 @@ class DeciduousTreesTest {
     @Test
     void shouldshowDeciduousTree(){
         deciduousTrees.grow();
-        
 
     }
-
-
-
 }

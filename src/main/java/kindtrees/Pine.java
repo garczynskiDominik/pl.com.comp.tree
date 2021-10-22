@@ -22,5 +22,4 @@ public class Pine extends ConfireTrees {
         super.grow();
         System.out.println("this tree have name Pine");
     }
-
 }

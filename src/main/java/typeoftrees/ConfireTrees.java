@@ -18,6 +18,4 @@ public class ConfireTrees extends AbstractTree {
                 ", typesOfLeaves=" + getTypeOfLeaves() +
                 '}';
     }
-
-
 }

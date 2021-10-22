@@ -24,6 +24,5 @@ public class Main {
         oak.grow();
         pine.grow();
 
-
     }
 }

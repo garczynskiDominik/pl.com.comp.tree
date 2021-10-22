@@ -14,7 +14,4 @@ public abstract class AbstractTree {
     private TypesOfLeaves typeOfLeaves;
 
     public abstract void grow();
-
-
-
 }
